@@ -1,3 +1,3 @@
 # amrit-repos
 
-This is Amrit's Code Repository
+This is Amrit's Code Repository.
